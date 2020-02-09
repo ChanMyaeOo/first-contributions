@@ -169,7 +169,8 @@ Deepika Padmanabhan
 - [Meredith Strickland] (https://github.com/merestrickland)
 - [Khalid Shaikh] (https://github.com/mkhalid-s)
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
-- [Chakib Atmane] (https://github.com/chak-eeb)
+- [Chakib Atmane] (https://github.com/chak-eeb)\
+- [Chan Myae Oo] (https://github.com/ChanMyaeOo)
 - [Daman Deep Singh] (https://github.com/ddsb01)
 - [Amanda Taylor] (https://github.com/ataylor)
 - [Christophe Meyering] (https://github.com/ChrisMeyering)
